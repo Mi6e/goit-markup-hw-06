@@ -854,6 +854,15 @@ a {
   border: none;
 }
 
+.modal-link {
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: underline;
+  letter-spacing: 0.03em;
+  margin-left: 5px;
+  color: #2196f3;
+}
+
 .modal-btn {
   width: 200px;
   height: 50px;
