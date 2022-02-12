@@ -443,6 +443,7 @@ a {
 .footer-container {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
 }
 
 .footer-logo-content {
@@ -501,10 +502,6 @@ a {
 .footer-content {
   display: flex;
   flex-direction: column;
-}
-
-.footer-content + .footer-content {
-  margin-left: 70px;
 }
 
 .footer-text {
